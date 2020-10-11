@@ -1,1 +1,88 @@
-<mxfile host="app.diagrams.net" modified="2020-10-11T19:00:57.072Z" agent="5.0 (Windows)" version="13.7.9" etag="uGo2Bowj3XD6oAH8lk0I" type="github"><diagram id="VFk7UJcwErSOA7RvB_Mm">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-11T19:09:57.536Z" agent="5.0 (Windows)" etag="rFZrtzsdHicrhaPW4Prh" version="13.7.9" type="github">
+  <diagram id="VFk7UJcwErSOA7RvB_Mm" name="Page-1">
+    <mxGraphModel dx="545" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4lcPI13g95jQHY956P6N-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4lcPI13g95jQHY956P6N-1" target="4lcPI13g95jQHY956P6N-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4lcPI13g95jQHY956P6N-1" value="Начало" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4lcPI13g95jQHY956P6N-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4lcPI13g95jQHY956P6N-3" target="4lcPI13g95jQHY956P6N-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4lcPI13g95jQHY956P6N-3" value="&lt;div&gt;Ввод числа&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4lcPI13g95jQHY956P6N-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4lcPI13g95jQHY956P6N-5" target="4lcPI13g95jQHY956P6N-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4lcPI13g95jQHY956P6N-5" value="Нажимаем на кнопку &quot;Узнать&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4lcPI13g95jQHY956P6N-8" value="Да" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4lcPI13g95jQHY956P6N-7" target="4lcPI13g95jQHY956P6N-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4lcPI13g95jQHY956P6N-9" value="Нет" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4lcPI13g95jQHY956P6N-7" target="4lcPI13g95jQHY956P6N-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4lcPI13g95jQHY956P6N-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4lcPI13g95jQHY956P6N-7" target="4lcPI13g95jQHY956P6N-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4lcPI13g95jQHY956P6N-13" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4lcPI13g95jQHY956P6N-12">
+          <mxGeometry x="0.1" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4lcPI13g95jQHY956P6N-7" value="Число простое?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="280" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="4lcPI13g95jQHY956P6N-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.067;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4lcPI13g95jQHY956P6N-10" target="4lcPI13g95jQHY956P6N-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4lcPI13g95jQHY956P6N-10" value="&lt;div&gt;Вывести сообщение: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;Это простое число&quot;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="310" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4lcPI13g95jQHY956P6N-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4lcPI13g95jQHY956P6N-11" target="4lcPI13g95jQHY956P6N-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="783" y="710" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="790" y="265" />
+              <mxPoint x="790" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4lcPI13g95jQHY956P6N-11" value="Вывести сообщение: &quot;Число другого типа&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="210" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="4lcPI13g95jQHY956P6N-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4lcPI13g95jQHY956P6N-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4lcPI13g95jQHY956P6N-14" value="&lt;div&gt;Число вне диапазона,&lt;/div&gt;&lt;div&gt;вывести сообщение об ошибке&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="390" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4lcPI13g95jQHY956P6N-16" value="Конец" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
