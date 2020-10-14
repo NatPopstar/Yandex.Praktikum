@@ -1,1 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2020-10-14T18:07:17.804Z" agent="5.0 (Windows)" version="13.7.9" etag="UFLCyMT72_oxVB-i2tcG" type="github"><diagram id="5nucG4Uui7GERJchGJ_Y">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-14T18:19:26.705Z" agent="5.0 (Windows)" etag="ZhL88d8o8jjLzsZgbWhJ" version="13.7.9" type="github">
+  <diagram id="5nucG4Uui7GERJchGJ_Y" name="Page-1">
+    <mxGraphModel dx="1487" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="d5s3h0zgswfP4mPDKpeL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="d5s3h0zgswfP4mPDKpeL-1" target="d5s3h0zgswfP4mPDKpeL-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5s3h0zgswfP4mPDKpeL-1" value="Начало" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5s3h0zgswfP4mPDKpeL-7" value="да" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=15;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d5s3h0zgswfP4mPDKpeL-3" target="d5s3h0zgswfP4mPDKpeL-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5s3h0zgswfP4mPDKpeL-8" value="нет" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=15;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d5s3h0zgswfP4mPDKpeL-3" target="d5s3h0zgswfP4mPDKpeL-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="515" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5s3h0zgswfP4mPDKpeL-3" value="Выбран режим &quot;Оптимальный&quot; или &quot;Быстрый&quot;" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="165" y="120" width="290" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="d5s3h0zgswfP4mPDKpeL-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="d5s3h0zgswfP4mPDKpeL-12" target="d5s3h0zgswfP4mPDKpeL-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5s3h0zgswfP4mPDKpeL-12" value="Панель видов транспорта неактивна - автоматический выбор транспорта" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="220" width="185" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="d5s3h0zgswfP4mPDKpeL-14" value="да" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="d5s3h0zgswfP4mPDKpeL-13" target="d5s3h0zgswfP4mPDKpeL-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5s3h0zgswfP4mPDKpeL-16" value="нет" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=15;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="d5s3h0zgswfP4mPDKpeL-13" target="d5s3h0zgswfP4mPDKpeL-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5s3h0zgswfP4mPDKpeL-13" value="Выбран режим &quot;Свой&quot; ?" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="455" y="230" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d5s3h0zgswfP4mPDKpeL-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="d5s3h0zgswfP4mPDKpeL-15" target="d5s3h0zgswfP4mPDKpeL-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5s3h0zgswfP4mPDKpeL-15" value="Панель видов транспорта активна - можно переключить" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="625" y="370" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d5s3h0zgswfP4mPDKpeL-17" value="Конец" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="250" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
