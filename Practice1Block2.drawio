@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-14T18:04:56.390Z" agent="5.0 (Windows)" etag="Gs63ptcQ14iLjeWWgrrN" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-14T18:06:04.187Z" agent="5.0 (Windows)" etag="7bxipXmR52-H15Z1R7El" version="13.7.9" type="github">
   <diagram id="60UvAasKbggPAayPwatd" name="Page-1">
     <mxGraphModel dx="637" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -24,7 +24,7 @@
         <mxCell id="DHWTyR7Z0xvFFEhCNBNT-12" value="да" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="DHWTyR7Z0xvFFEhCNBNT-6" target="DHWTyR7Z0xvFFEhCNBNT-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DHWTyR7Z0xvFFEhCNBNT-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="DHWTyR7Z0xvFFEhCNBNT-6" target="DHWTyR7Z0xvFFEhCNBNT-14">
+        <mxCell id="DHWTyR7Z0xvFFEhCNBNT-15" value="нет" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="DHWTyR7Z0xvFFEhCNBNT-6" target="DHWTyR7Z0xvFFEhCNBNT-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DHWTyR7Z0xvFFEhCNBNT-6" value="Поле &quot;Куда&quot; заполнено корректно" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
@@ -33,11 +33,11 @@
         <mxCell id="DHWTyR7Z0xvFFEhCNBNT-13" value="да" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="DHWTyR7Z0xvFFEhCNBNT-7" target="DHWTyR7Z0xvFFEhCNBNT-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DHWTyR7Z0xvFFEhCNBNT-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="DHWTyR7Z0xvFFEhCNBNT-7" target="DHWTyR7Z0xvFFEhCNBNT-14">
+        <mxCell id="DHWTyR7Z0xvFFEhCNBNT-16" value="нет" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="DHWTyR7Z0xvFFEhCNBNT-7" target="DHWTyR7Z0xvFFEhCNBNT-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DHWTyR7Z0xvFFEhCNBNT-7" value="Поле &quot;Откуда&quot; заполнено корректно" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="550" y="190" width="210" height="90" as="geometry" />
+          <mxGeometry x="550" y="185" width="210" height="90" as="geometry" />
         </mxCell>
         <mxCell id="DHWTyR7Z0xvFFEhCNBNT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="DHWTyR7Z0xvFFEhCNBNT-10" target="DHWTyR7Z0xvFFEhCNBNT-17">
           <mxGeometry relative="1" as="geometry" />
