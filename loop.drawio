@@ -1,1 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2021-02-25T11:07:58.229Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" version="14.4.3" etag="CON-EScU2Qv_TaDJWHGq" type="github"><diagram id="yQqCYCDdkkB_3KXsaII1">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-25T11:39:09.520Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="5QlnA_zdUpdS7yeob9Iv" version="14.4.3" type="github">
+  <diagram id="yQqCYCDdkkB_3KXsaII1" name="Page-1">
+    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="V4f7WvqL1HjVbhUR88Fa-1" value="&lt;pre class=&quot;plaintext code-block code-block_theme_light&quot; style=&quot;position: relative ; display: block ; overflow-x: auto ; box-sizing: inherit ; border: 1px solid rgb(223 , 229 , 238) ; border-radius: 4px ; color: rgb(56 , 58 , 66) ; background: rgb(247 , 249 , 252) ; margin: 0 ; font-size: 18px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;&lt;code class=&quot;code-block__code plaintext&quot; style=&quot;word-break: break-word; font-size: 14px; line-height: 24px; box-sizing: inherit; background: none; padding: 0px;&quot;&gt;let sum = 0;&#xa;&#xa;for (let i = 0; i &amp;lt; 5; i++) {&#xa;    let userNumber = Number(prompt(&#39;Введите число&#39;));&#xa;    if (userNumber &amp;lt;= 10) { // проверить число&#xa;        sum = sum + userNumber; // если меньше или равно 10, добавляем число к сумме&#xa;    } else {&#xa;        sum = sum + 10; // если больше 10, добавляем к сумме 10&#xa;    }&#xa;};&#xa;&#xa;alert(sum);&lt;/code&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="40" width="650" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="V4f7WvqL1HjVbhUR88Fa-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V4f7WvqL1HjVbhUR88Fa-3" target="V4f7WvqL1HjVbhUR88Fa-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V4f7WvqL1HjVbhUR88Fa-3" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V4f7WvqL1HjVbhUR88Fa-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V4f7WvqL1HjVbhUR88Fa-4" target="V4f7WvqL1HjVbhUR88Fa-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V4f7WvqL1HjVbhUR88Fa-4" value="sum = 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="100" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V4f7WvqL1HjVbhUR88Fa-6" value="for ( i =0; i &amp;lt; 5; i++)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="180" width="125" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V4f7WvqL1HjVbhUR88Fa-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="V4f7WvqL1HjVbhUR88Fa-10" target="V4f7WvqL1HjVbhUR88Fa-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V4f7WvqL1HjVbhUR88Fa-10" value="userNumber" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="51.5" y="240" width="97" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V4f7WvqL1HjVbhUR88Fa-14" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="V4f7WvqL1HjVbhUR88Fa-11" target="V4f7WvqL1HjVbhUR88Fa-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V4f7WvqL1HjVbhUR88Fa-21" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="V4f7WvqL1HjVbhUR88Fa-11" target="V4f7WvqL1HjVbhUR88Fa-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V4f7WvqL1HjVbhUR88Fa-11" value="if uN &amp;lt;= 10" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45.25" y="310" width="109.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="V4f7WvqL1HjVbhUR88Fa-15" value="sum = sum + uN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V4f7WvqL1HjVbhUR88Fa-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V4f7WvqL1HjVbhUR88Fa-17" target="V4f7WvqL1HjVbhUR88Fa-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V4f7WvqL1HjVbhUR88Fa-17" value="alert sum" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V4f7WvqL1HjVbhUR88Fa-18" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75.5" y="720" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V4f7WvqL1HjVbhUR88Fa-20" value="sum = sum + 10" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="293.5" y="335" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
