@@ -1,0 +1,192 @@
+1.
+Выбери столбцы id_product, name, category, name_store из таблицы products_data_all.
+
+SELECT --напиши код здесь
+    id_product,
+    name,
+    category,
+    name_store
+ FROM
+     products_data_all;
+
+2. Покупатели обменивают чеки на бонусы при будущих покупках. Магазин собрал информацию из чеков в таблице transactions (англ. «транзакции, сделки»). Выбери и изучи все столбцы таблицы в базе.
+
+SELECT --напиши код здесь
+    *
+ FROM
+     transactions;
+
+3. Напиши запрос, который посчитает количество строк в таблице products_data_all; количество строк в столбце name и количество уникальных продуктов в столбце name. Сохрани результаты в полях cnt, name_cnt и name_uniq_cnt соответственно.
+
+SELECT 
+	COUNT(*) AS cnt,
+    COUNT(name) AS name_cnt,
+    COUNT(DISTINCT name) AS name_uniq_cnt
+    
+    
+FROM
+	products_data_all
+
+4. Напиши запрос, который посчитает среднюю цену товара с названием 'Молоко пастеризованное Домик в деревне 2,5%, 930 мл' в магазине 'Семёрочка'. Результирующее поле назови average.
+
+SELECT 
+	AVG(price) AS average
+FROM
+	products_data_all
+WHERE
+    name = 'Молоко пастеризованное Домик в деревне 2,5%, 930 мл' AND
+    name_store = 'Семёрочка';
+
+5. Напиши запрос, который посчитает разницу между максимальной и минимальной ценой продукта 'Масло топленое Ecotavush 99%, 500 г' в магазине 'ВкусМилк'. Назови поле max_min_diff.
+
+SELECT 
+	
+    MAX(price) - MIN(price) AS max_min_diff
+    
+FROM
+	products_data_all
+WHERE
+    name = 'Масло топленое Ecotavush 99%, 500 г' AND
+    name_store = 'ВкусМилк'
+
+6. Напиши запрос, который посчитает максимальный вес продукта в категории «молоко и сливки». Примени конструкцию CAST AS и назови поле max_weight.
+
+SELECT 
+	MAX(CAST(weight AS real)) AS max_weight
+FROM
+	products_data_all
+WHERE
+    category = 'молоко и сливки';
+
+7. Напиши запрос, который посчитает среднюю, максимальную и минимальную цены (price) товаров каждого магазина (name_store) в таблице products_data_all. Назови переменные соответственно average_price, max_price, min_price.
+Выведи название магазина, а также среднюю, максимальную и минимальную цены.
+
+SELECT 
+	name_store,
+    avg(price::real) as average_price,
+    max(price::real) as max_price,
+    min(price::real) as min_price
+    
+FROM
+	products_data_all
+GROUP BY
+	name_store
+
+8. 
+Напиши запрос, который посчитает разницу между максимальной и минимальной ценами каждого продукта в категории 'масло сливочное и маргарин' на 10 июня 2019 года. Назови переменную max_min_diff. Переведи строковые значения дат в формат даты.
+Выведи название продукта, разницу между максимальной и минимальной ценами.
+Напомним названия нужных вам столбцов:
+Категория — поле category
+Дата — поле date_upd
+Цена — поле price
+Название продукта — поле name
+
+SELECT 
+	name,
+    max(price) - min(price) as max_min_diff
+    
+FROM
+	products_data_all
+WHERE
+	category = 'масло сливочное и маргарин' and
+    date_upd::date = '2019-06-10'
+GROUP BY
+    name
+
+9. Напиши запрос, который посчитает количество товаров в каждой категории (category) на дату '2019-06-05'. Назови переменную name_cnt и отсортируй данные по возрастанию количества товаров. Выведи дату, категорию, количество товаров. Назови выбранную дату update_date.
+Обрати внимание: дату нужно перевести из строкового типа в date.
+
+SELECT 
+     date_upd as update_date,
+     category,
+	count(category) as name_cnt
+FROM
+	products_data_all
+WHERE
+    date_upd::date = '2019-06-05'
+GROUP BY 
+    date_upd,
+    category
+ORDER BY 
+	name_cnt asc
+
+10. Напиши запрос, который посчитает количество уникальных продуктов в каждой категории в магазине 'Lentro' на '2019-06-30'. Назови переменную uniq_name_cnt и отсортируй количество уникальных продуктов по убыванию. Приведи дату к формату date и назови поле update_date. Выведи дату, название магазина, название категории, количество уникальных продуктов.
+
+SELECT 
+	date_upd as update_date,
+    name_store,
+    category,
+    count (distinct name) as uniq_name_cnt
+FROM
+	products_data_all
+WHERE 
+	name_store = 'Lentro' and
+    date_upd::date = '2019-06-30'
+GROUP BY 
+	update_date,
+    name_store,
+    category
+ORDER BY 
+	uniq_name_cnt desc
+
+11. Напиши запрос, который выведет топ-5 самых дорогих продуктов по убыванию. Выведи название продукта и стоимость. Дай переменной имя max_price.
+
+SELECT 
+	name,
+    max(price) as max_price
+FROM
+	products_data_all
+GROUP BY 
+    name
+ORDER BY 
+    max_price desc
+LIMIT
+    5
+
+12. Проверь, есть ли NULL в поле weight в таблице products. Выведи поля: name,units,weight.
+
+SELECT
+	name,
+    units,
+    weight
+FROM
+	products
+--напиши код здесь
+where 
+weight IS null;
+
+13. Найди средний вес продукции, сгруппированный по единицам измерения (units). Сохрани его в поле с именем avg_weight.
+В выборке сначала выведи столбец avg_weight, а затем столбец units.
+
+SELECT
+    	AVG(weight::real) as avg_weight,
+        units
+FROM 
+	products
+
+GROUP BY 
+    units;
+
+14. Запросом с CASE-выражением замени NULL на среднее значение (округленное до целого) в каждой группе units. Назови выборку weight_info.
+Чтобы выполнить задание, понадобится ответ предыдущей задачи:
+"72"    "%"
+"1"    "кг"
+"1"    "л"
+"805"    "мл"
+"402"    "г" 
+Подсказка: В конструкции CASE после оператора WHEN составьте условие, которое проверит поле weight на пропуски в группах units из предыдущего задания. После оператора THEN укажите среднее значение, которым нужно подменить пропуски. Строки со средним значением возьмите из решения предыдущей задачи в условии.
+
+with avgs as
+    (select 
+        units, 
+        floor(avg(weight::real)) as avg_weight 
+    from products 
+    group by units)
+select 
+    *,
+    case 
+        when weight is null then 
+            (select avg_weight from avgs where avgs.units=products.units)
+        else weight::real
+    end as weight_info
+from products
