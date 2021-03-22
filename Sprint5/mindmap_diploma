@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-22T11:27:06.531Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 YaBrowser/21.2.4.172 Yowser/2.5 Safari/537.36" etag="KWtm6cdreZxqv6A2x5bE" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-22T23:43:34.290Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 YaBrowser/21.2.4.172 Yowser/2.5 Safari/537.36" etag="6c5taoDVyKXv6oQFtQOP" version="14.4.9" type="github">
   <diagram id="n5Ptmo5AlbboUcuRGDEE" name="Page-1">
     <mxGraphModel dx="1422" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -106,7 +106,7 @@
         <mxCell id="ER0JgHCnNhMIYJaAm1-T-27" value="Кнопки&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1090" y="190" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ER0JgHCnNhMIYJaAm1-T-28" value="Заказать" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ER0JgHCnNhMIYJaAm1-T-28" value="Заказать" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1320" y="170" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ER0JgHCnNhMIYJaAm1-T-29" value="Статус заказа" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -325,7 +325,7 @@
         <mxCell id="ER0JgHCnNhMIYJaAm1-T-122" value="Кнопка" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1480" y="1820" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ER0JgHCnNhMIYJaAm1-T-124" value="Заказать" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ER0JgHCnNhMIYJaAm1-T-124" value="Заказать" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1650" y="1815" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ER0JgHCnNhMIYJaAm1-T-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ER0JgHCnNhMIYJaAm1-T-126" target="ER0JgHCnNhMIYJaAm1-T-128">
@@ -517,7 +517,7 @@
         <mxCell id="ER0JgHCnNhMIYJaAm1-T-202" value="Кнопка" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="1140" y="3110" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ER0JgHCnNhMIYJaAm1-T-204" value="Далее" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="1">
+        <mxCell id="ER0JgHCnNhMIYJaAm1-T-204" value="Далее" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fillColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1351" y="3110" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ER0JgHCnNhMIYJaAm1-T-206" value="*Имя" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="1">
@@ -592,7 +592,7 @@
         <mxCell id="ER0JgHCnNhMIYJaAm1-T-236" value="Кнопка" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="1150" y="3700" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ER0JgHCnNhMIYJaAm1-T-237" value="Далее" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="1">
+        <mxCell id="ER0JgHCnNhMIYJaAm1-T-237" value="Далее" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#FFFFFF;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1361" y="3700" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ER0JgHCnNhMIYJaAm1-T-238" value="*Когда привезти самокат" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="1">
