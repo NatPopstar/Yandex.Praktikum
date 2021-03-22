@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-22T10:49:01.986Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 YaBrowser/21.2.4.172 Yowser/2.5 Safari/537.36" etag="viOhCqfO12ilrpGIiNU6" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-22T10:56:04.351Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 YaBrowser/21.2.4.172 Yowser/2.5 Safari/537.36" etag="G4FXl-IlCEvH16yX1DF3" version="14.4.9" type="github">
   <diagram id="n5Ptmo5AlbboUcuRGDEE" name="Page-1">
     <mxGraphModel dx="1422" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -340,32 +340,32 @@
         <mxCell id="ER0JgHCnNhMIYJaAm1-T-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ER0JgHCnNhMIYJaAm1-T-132" target="ER0JgHCnNhMIYJaAm1-T-156">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ER0JgHCnNhMIYJaAm1-T-132" value="Список блоков" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ER0JgHCnNhMIYJaAm1-T-132" value="Выпадающий список" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1480" y="2040" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ER0JgHCnNhMIYJaAm1-T-134" value="Сколько стоит? И как оплатить?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1650" y="2160" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ER0JgHCnNhMIYJaAm1-T-137" value="Хочу сразу несколько самокатов! Так можно?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1650" y="2200" width="200" height="30" as="geometry" />
+          <mxGeometry x="1654" y="2205" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ER0JgHCnNhMIYJaAm1-T-138" value="Как рассчитывается время аренды?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1650" y="2240" width="200" height="30" as="geometry" />
+          <mxGeometry x="1650" y="2265" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ER0JgHCnNhMIYJaAm1-T-139" value="Можно ли заказать самокат прямо на сегодня?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1650" y="2280" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ER0JgHCnNhMIYJaAm1-T-140" value="Можно ли продлить заказ или вернуть самокат раньше?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1650" y="2320" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ER0JgHCnNhMIYJaAm1-T-141" value="Вы привозите зарядку вместе с самокатом?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ER0JgHCnNhMIYJaAm1-T-140" value="Можно ли продлить заказ или вернуть самокат раньше?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1650" y="2360" width="200" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ER0JgHCnNhMIYJaAm1-T-141" value="Вы привозите зарядку вместе с самокатом?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="2410" width="200" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="ER0JgHCnNhMIYJaAm1-T-142" value="Можно ли отменить заказ?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1650" y="2400" width="200" height="30" as="geometry" />
+          <mxGeometry x="1650" y="2460" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ER0JgHCnNhMIYJaAm1-T-143" value="Я живу за МКАДом, привезёте?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1650" y="2440" width="200" height="30" as="geometry" />
+          <mxGeometry x="1650" y="2500" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ER0JgHCnNhMIYJaAm1-T-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ER0JgHCnNhMIYJaAm1-T-154" target="ER0JgHCnNhMIYJaAm1-T-143">
           <mxGeometry relative="1" as="geometry" />
@@ -394,11 +394,56 @@
         <mxCell id="ER0JgHCnNhMIYJaAm1-T-154" value="Вопросы" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1650" y="2080" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ER0JgHCnNhMIYJaAm1-T-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ER0JgHCnNhMIYJaAm1-T-156" target="ER0JgHCnNhMIYJaAm1-T-169">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ER0JgHCnNhMIYJaAm1-T-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ER0JgHCnNhMIYJaAm1-T-156" target="ER0JgHCnNhMIYJaAm1-T-173">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ER0JgHCnNhMIYJaAm1-T-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ER0JgHCnNhMIYJaAm1-T-156" target="ER0JgHCnNhMIYJaAm1-T-172">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ER0JgHCnNhMIYJaAm1-T-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ER0JgHCnNhMIYJaAm1-T-156" target="ER0JgHCnNhMIYJaAm1-T-171">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ER0JgHCnNhMIYJaAm1-T-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ER0JgHCnNhMIYJaAm1-T-156" target="ER0JgHCnNhMIYJaAm1-T-170">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ER0JgHCnNhMIYJaAm1-T-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ER0JgHCnNhMIYJaAm1-T-156" target="ER0JgHCnNhMIYJaAm1-T-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ER0JgHCnNhMIYJaAm1-T-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ER0JgHCnNhMIYJaAm1-T-156" target="ER0JgHCnNhMIYJaAm1-T-167">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ER0JgHCnNhMIYJaAm1-T-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ER0JgHCnNhMIYJaAm1-T-156" target="ER0JgHCnNhMIYJaAm1-T-166">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ER0JgHCnNhMIYJaAm1-T-156" value="Ответы" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1980" y="2080" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ER0JgHCnNhMIYJaAm1-T-166" value="Сколько стоит? И как оплатить?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1910" y="2160" width="200" height="30" as="geometry" />
+        <mxCell id="ER0JgHCnNhMIYJaAm1-T-166" value="&lt;span style=&quot;font-family: &amp;#34;yandex sans text&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Сутки — 400 рублей. Оплата курьеру — наличными или картой&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;yandex sans text&amp;#34; , sans-serif ; font-size: medium ; background-color: rgb(255 , 255 , 255)&quot;&gt;.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="2160" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ER0JgHCnNhMIYJaAm1-T-167" value="&lt;span style=&quot;font-family: &amp;#34;yandex sans text&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Пока что у нас так: один заказ — один самокат. Если хотите покататься с друзьями, можете просто сделать несколько заказов — один за другим&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;yandex sans text&amp;#34; , sans-serif ; font-size: medium ; background-color: rgb(255 , 255 , 255)&quot;&gt;.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="2200" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ER0JgHCnNhMIYJaAm1-T-168" value="&lt;span style=&quot;font-family: &amp;#34;yandex sans text&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Допустим, вы оформляете заказ на 8 мая. Мы привозим самокат 8 мая в течение дня. Отсчёт времени аренды начинается с момента, когда вы оплатите заказ курьеру. Если мы привезли самокат 8 мая в 20:30, суточная аренда закончится 9 мая в 20:30.&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="2250" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ER0JgHCnNhMIYJaAm1-T-169" value="&lt;span style=&quot;font-family: &amp;#34;yandex sans text&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;Да, обязательно. Всем самокатов! И Москве, и Московской области.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="2500" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ER0JgHCnNhMIYJaAm1-T-170" value="&lt;span style=&quot;font-family: &amp;#34;yandex sans text&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Только начиная с завтрашнего дня. Но скоро станем расторопнее.&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="2320" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ER0JgHCnNhMIYJaAm1-T-171" value="&lt;span style=&quot;font-family: &amp;#34;yandex sans text&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;Пока что нет! Но если что-то срочное — всегда можно позвонить в поддержку по красивому номеру 1010.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="2360" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ER0JgHCnNhMIYJaAm1-T-172" value="&lt;span style=&quot;font-family: &amp;#34;yandex sans text&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;Самокат приезжает к вам с полной зарядкой. Этого хватает на восемь суток — даже если будете кататься без передышек и во сне. Зарядка не понадобится.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="2400" width="440" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ER0JgHCnNhMIYJaAm1-T-173" value="&lt;span style=&quot;font-family: &amp;#34;yandex sans text&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;Да, пока самокат не привезли. Штрафа не будет, объяснительной записки тоже не попросим. Все же свои.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="2460" width="440" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
