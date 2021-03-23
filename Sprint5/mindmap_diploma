@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T02:15:31.278Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 YaBrowser/21.2.4.172 Yowser/2.5 Safari/537.36" etag="oHp9yAfGa8WvhSUw6775" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T02:17:28.418Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 YaBrowser/21.2.4.172 Yowser/2.5 Safari/537.36" etag="qWzfFH1qcYZo7HRJtq-6" version="14.4.9" type="github">
   <diagram id="n5Ptmo5AlbboUcuRGDEE" name="Page-1">
     <mxGraphModel dx="5808" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1212,17 +1212,11 @@
         <mxCell id="ER0JgHCnNhMIYJaAm1-T-747" value="Кнопка" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="-880" y="380.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ER0JgHCnNhMIYJaAm1-T-753" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ER0JgHCnNhMIYJaAm1-T-748" target="ER0JgHCnNhMIYJaAm1-T-752">
+        <mxCell id="ER0JgHCnNhMIYJaAm1-T-846" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ER0JgHCnNhMIYJaAm1-T-748" target="ER0JgHCnNhMIYJaAm1-T-819">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ER0JgHCnNhMIYJaAm1-T-748" value="Go" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="-1070" y="385.5" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ER0JgHCnNhMIYJaAm1-T-821" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ER0JgHCnNhMIYJaAm1-T-752" target="ER0JgHCnNhMIYJaAm1-T-819">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ER0JgHCnNhMIYJaAm1-T-752" value="Переход на экран &quot;Статус заказа&quot;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="-1260" y="378.5" width="120" height="44" as="geometry" />
         </mxCell>
         <mxCell id="ER0JgHCnNhMIYJaAm1-T-763" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ER0JgHCnNhMIYJaAm1-T-757" target="ER0JgHCnNhMIYJaAm1-T-762">
           <mxGeometry relative="1" as="geometry" />
@@ -1284,17 +1278,11 @@
         <mxCell id="ER0JgHCnNhMIYJaAm1-T-776" value="Заказ оформлен" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="-2140" y="127.5" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="ER0JgHCnNhMIYJaAm1-T-781" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ER0JgHCnNhMIYJaAm1-T-778" target="ER0JgHCnNhMIYJaAm1-T-780">
+        <mxCell id="ER0JgHCnNhMIYJaAm1-T-845" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ER0JgHCnNhMIYJaAm1-T-778" target="ER0JgHCnNhMIYJaAm1-T-819">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ER0JgHCnNhMIYJaAm1-T-778" value="Кнопка &quot;Посмотреть статус&quot;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="-2320" y="122.5" width="120" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="ER0JgHCnNhMIYJaAm1-T-820" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ER0JgHCnNhMIYJaAm1-T-780" target="ER0JgHCnNhMIYJaAm1-T-819">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ER0JgHCnNhMIYJaAm1-T-780" value="Экран &quot;Статус заказа&quot;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="-2550" y="127.5" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="ER0JgHCnNhMIYJaAm1-T-782" value="&quot;Самокат&quot; ссылка на страницу главную страницу сервиса" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-880" y="65" width="120" height="40" as="geometry" />
