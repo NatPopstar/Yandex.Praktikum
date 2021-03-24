@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-24T08:51:05.215Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 YaBrowser/21.2.4.172 Yowser/2.5 Safari/537.36" etag="zRYKStO-U1onH58HNy2x" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-24T08:51:19.501Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 YaBrowser/21.2.4.172 Yowser/2.5 Safari/537.36" etag="JE8L_tck2tukch6ynlKB" version="14.4.9" type="github">
   <diagram id="GR7Ja8S-SogmaoNz6KBA" name="Page-1">
     <mxGraphModel dx="3903" dy="-404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -342,7 +342,7 @@
         <mxCell id="xFNLNogqQ_oKeiKwsI7x-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xFNLNogqQ_oKeiKwsI7x-110" target="xFNLNogqQ_oKeiKwsI7x-112">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xFNLNogqQ_oKeiKwsI7x-110" value="Форма заказа" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xFNLNogqQ_oKeiKwsI7x-110" value="Форма заказа" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="280" y="1340" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xFNLNogqQ_oKeiKwsI7x-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xFNLNogqQ_oKeiKwsI7x-112" target="xFNLNogqQ_oKeiKwsI7x-118">
