@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-24T08:56:41.465Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 YaBrowser/21.2.4.172 Yowser/2.5 Safari/537.36" etag="WwEBjeD8IIdVxBSFf6NE" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-24T08:59:14.261Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 YaBrowser/21.2.4.172 Yowser/2.5 Safari/537.36" etag="USVgAe_BXj25Hh-lqOmE" version="14.4.9" type="github">
   <diagram id="GR7Ja8S-SogmaoNz6KBA" name="Page-1">
     <mxGraphModel dx="3666" dy="-531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -198,7 +198,7 @@
         <mxCell id="xFNLNogqQ_oKeiKwsI7x-62" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xFNLNogqQ_oKeiKwsI7x-63" target="xFNLNogqQ_oKeiKwsI7x-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xFNLNogqQ_oKeiKwsI7x-63" value="Подтверждение оформления заказа" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="xFNLNogqQ_oKeiKwsI7x-63" value="Всплывающее окно 1: Подтверждение оформления заказа" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-1259" y="2710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xFNLNogqQ_oKeiKwsI7x-64" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xFNLNogqQ_oKeiKwsI7x-66" target="xFNLNogqQ_oKeiKwsI7x-71">
@@ -237,7 +237,7 @@
         <mxCell id="xFNLNogqQ_oKeiKwsI7x-75" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xFNLNogqQ_oKeiKwsI7x-76" target="xFNLNogqQ_oKeiKwsI7x-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xFNLNogqQ_oKeiKwsI7x-76" value="Всплывающее окно 2" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="xFNLNogqQ_oKeiKwsI7x-76" value="Всплывающее окно 2: заказ оформлен" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-1879" y="2745" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xFNLNogqQ_oKeiKwsI7x-77" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xFNLNogqQ_oKeiKwsI7x-78" target="xFNLNogqQ_oKeiKwsI7x-82">
