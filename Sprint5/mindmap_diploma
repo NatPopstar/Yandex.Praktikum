@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-04T12:34:58.444Z" agent="5.0 (Windows)" etag="wOxFGKYegPv8u58NsNt9" version="14.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-07T12:56:54.571Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.86 YaBrowser/21.3.0.663 Yowser/2.5 Safari/537.36" etag="fCT4e6EG69UA5RbDE_AO" version="14.5.7" type="github">
   <diagram id="n5Ptmo5AlbboUcuRGDEE" name="Page-1">
-    <mxGraphModel dx="5557" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5557" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -436,7 +436,7 @@
         <mxCell id="ER0JgHCnNhMIYJaAm1-T-202" value="Кнопка" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1083" y="2650" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ER0JgHCnNhMIYJaAm1-T-204" value="Далее" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="ER0JgHCnNhMIYJaAm1-T-204" value="Дальше" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1303" y="2650" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ER0JgHCnNhMIYJaAm1-T-206" value="*Имя" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
@@ -1246,7 +1246,7 @@
         <mxCell id="ER0JgHCnNhMIYJaAm1-T-987" value="переход к" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ER0JgHCnNhMIYJaAm1-T-890" target="ER0JgHCnNhMIYJaAm1-T-903" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ER0JgHCnNhMIYJaAm1-T-890" value="Далее" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#000000;fontStyle=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="ER0JgHCnNhMIYJaAm1-T-890" value="Дальше" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#000000;fontStyle=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-660" y="2024" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ER0JgHCnNhMIYJaAm1-T-969" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ER0JgHCnNhMIYJaAm1-T-891" target="ER0JgHCnNhMIYJaAm1-T-961" edge="1">
